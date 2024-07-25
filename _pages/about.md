@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-![Graphic of intersection between Finance and Computer Science](/images/HomepageImage.webp){: .align-right width="300px"}
+![Graphic of intersection between Finance and Computer Science](/images/IMG_1159_Original.jpeg){: .align-right width="300px"}
 
 
 📖 I am a sophomore at the University of Washington studying Computer Science with a concentration in data science, and a minor in business 📖
