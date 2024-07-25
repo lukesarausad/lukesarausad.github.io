@@ -17,7 +17,7 @@ redirect_from:
 
 🌎 I am proficient in several languages including Java, python, C, JavaScript, and HTML/CSS 🌎
 
-🤙 If I'm not coding you can probably catch me golfing 🤙
+🤙 If I'm not coding you can probably find me on the golf course 🤙
 
 
 
