@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-![Graphic of intersection between Finance and Computer Science](/images/golf.jpeg){: .align-right width="300px"}
+![Image Under CS Building](/images/paulAllen.jpeg){: .align-right width="300px"}
 
 
 📖 I am a sophomore at the University of Washington studying Computer Science with a concentration in data science, and a minor in business 📖
@@ -16,6 +16,8 @@ redirect_from:
 🖥️ My primary passion is exploring this intersection between finance and software engineering 🖥️
 
 🌎 I am proficient in several languages including Java, python, C, JavaScript, and HTML/CSS 🌎
+
+🤙 In my free time I love playing golf, tennis and working out 🤙
 
 
 
