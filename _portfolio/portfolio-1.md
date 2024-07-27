@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "FinGPT"
+excerpt: "I created a model that predicted the prices of S&P 500 stocks<br/><img src='/images/StockPredicting.webp'>"
 collection: portfolio
 ---
 
