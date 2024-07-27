@@ -26,7 +26,7 @@ About Me
 
 As a sophomore at the University of Washington I am hoping to grasp all the hands-on experience that I can surrounding the software engineering industry but primarily I am concerned with backend engineering. 
 
-I am invovlved in clubs including Algorithmic Trading Club, Software Engineering Career Club, COM^2, and DubHacks along with other extracurriculars like Husky tennis club and intermural sports. 
+I am invovlved in clubs including Algorithmic Trading Club, Software Engineering Career Club, COM^2, and DubHacks along with other extracurriculars like Husky tennis club and intramural sports. 
 
 Feel free to connect or add me on any socials and if you have any questions for me please send them my way!
 
