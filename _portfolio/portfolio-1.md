@@ -1,6 +1,6 @@
 ---
 title: "FinGPT"
-excerpt: "I created a model that predicted the prices of S&P 500 stocks<br/><img src='/images/StockPredicting.webp'>"
+excerpt: "I created a model that predicted the prices of S&P 500 stocks<br/><img src='/images/StockPredicting.webp'>{: .align-right width="300px"}"
 collection: portfolio
 ---
 
