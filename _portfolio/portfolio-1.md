@@ -4,4 +4,4 @@ excerpt: "I created a model that predicted the prices of S&P 500 stocks<br/><img
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Created an interface that allowed users to input a company stock and then a predicted price of that stock would be outputted. Much of this project is still in progress.
