@@ -1,6 +1,6 @@
 ---
 title: "PopUp"
-excerpt: "I created a fullstack web application called PopUp that allowed users to find local garage sales and services in their area. <br/><img src='/images/stocks.webp'>" 
+excerpt: "I created a fullstack web application called PopUp that allowed users to find local garage sales and services in their area. <br/><img src='/images/Screenshot 2024-08-15 at 6.49.54 PM.png'>" 
 collection: portfolio
 ---
 
