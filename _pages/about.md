@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-![Image Under CS Building](/images/IMG_6246.jpeg){: .align-right width="300px"}
+![Image Under CS Building](/images/IMG_6246.jpeg){: .align-right width="300px" .border-radius="25px"}
 
 
 📖 I am a sophomore at the University of Washington studying Computer Science with a concentration in data science, and a minor in business 📖
