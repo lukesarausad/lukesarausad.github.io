@@ -1,7 +1,7 @@
 ---
-title: "AirBnb AI Chatbot"
-excerpt: "Assists Airbnb hosts to remotely manage rentals <br/><img src='/images/airbnb.webp'>"
+title: "Market Predictor"
+excerpt: "Machine learning model that predicts future prices of a given stock/cryptocurrency <br/><img src='/images/airbnb.webp'>"
 collection: portfolio
 ---
 
-This project utilized AWS Lex and created an interface where AirBNB hosts could remotely manage their rentals. Much of this project is also still in progress.
+Developed a software solution that predicts future prices of stocks and cryptocurrencies by analyzing financial data and performing sentiment analysis on contemporary news articles. These inputs were integrated into a predictive model to generate future price forecasts for specific stocks and currencies. Utilized APIs from yFinance and the New York Times for seamless data integration. Additionally, designed and implemented data visualizations to effectively communicate the predictions and trends to users.
