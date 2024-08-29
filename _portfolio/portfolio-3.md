@@ -1,6 +1,6 @@
 ---
 title: "Tennis-Queue"
-excerpt: "Machine learning model that predicts future prices of a given stock/cryptocurrency <br/><img src='/images/airbnb.webp'>"
+excerpt: "Machine learning model that predicts future prices of a given stock/cryptocurrency <br/><img src='/images/Tennis-Queues.jpg'>"
 collection: portfolio
 ---
 
