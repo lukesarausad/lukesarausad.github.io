@@ -4,7 +4,7 @@ excerpt: "Web Application that allows users to book times at public tennis court
 collection: portfolio
 ---
 
-Project link: ["https://issaquah-tennis-queue.vercel.app/"]
+Project link: [https://issaquah-tennis-queue.vercel.app/]
 
 This project is a full-stack web application built to simplify the court reservation process at local parks, eliminating the need for individuals to physically visit each park to check for court availability. The application employs a queue-based data structure to manage reservations efficiently, ensuring a fair and transparent booking system for users.
 
