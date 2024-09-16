@@ -4,6 +4,5 @@ excerpt: "I created a fullstack web application called PopUp that allowed users 
 collection: portfolio
 ---
 
-This full-stack web-application was developed using primarily react for the front-end and node for the back end while using services like MongoDB and AWS to host and launch the application and store user data. I also integrated AWS rekognition which uses AI to identify objects of a garage sale and used that to accurately determine market-competitive prices which gave users the ability to list numerous items in their garage sale with a click of a button.
-
+This full-stack web-application was developed using primarily react for the front-end and node for the back end while using services like MongoDB and AWS to host and launch the application and store user data. I also integrated AWS rekognition which uses AI to identify objects of a garage sale and used that to accurately determine market-competitive prices which gave users the ability to list numerous items in their garage sale with a click of a button. This is a project that I am currently working and many of the features I am currently implementing myself.
 <br/><img src='/images/popup2.png'>" 
