@@ -1,11 +1,12 @@
 ---
-title: "PopUp"
-excerpt: "I created a fullstack web application called PopUp that allowed users to find local garage sales and services in their area. <br/><img src='/images/popup.png'>" 
+title: "SummAiry"
+excerpt: "I created a fullstack web application called SummAiry that leverages Google's Gemini to expedite Japanese real estate research process. <br/><img src='/images/SummAiry.png'>" 
 collection: portfolio
 ---
 
 SummAiry is a web application that transforms lengthy articles into concise, platform-optimized summaries using AI technology. Users can input any article URL and receive summaries tailored for different social media platforms, streamlining content consumption and sharing.
-Frontend Development:
+
+**Frontend Development:**
 
 Built with React.js for dynamic user interactions and state management
 Custom CSS for a minimalist black and white interface
@@ -20,7 +21,7 @@ Platform-specific summary displays
 
 
 
-Backend Development:
+**Backend Development:**
 
 Node.js/Express server architecture
 Integration with Google's Gemini AI for intelligent summarization
@@ -35,7 +36,7 @@ Secure API key management
 
 
 
-Key Features:
+**Key Features:**
 
 One-click article summarization
 Multiple output formats optimized for different platforms
@@ -44,6 +45,6 @@ Clean, distraction-free user interface
 Real-time processing and feedback
 Error handling and input validation
 
-Project Impact:
+**Project Impact:**
 SummAiry addresses the growing need for efficient content consumption and sharing in the digital age. It helps users save time by quickly understanding article content and enables them to share insights across different social media platforms in appropriate formats. The project demonstrates the practical application of AI in content processing while maintaining a focus on user experience and accessibility.
-<br/><img src='/images/popup2.png'>" 
+<br/><img src='/images/SummAiry.png'>" 
