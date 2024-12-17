@@ -4,7 +4,8 @@ excerpt: "I created a fullstack web application called SummAiry that leverages G
 collection: portfolio
 ---
 
-SummAiry is a web application that transforms lengthy articles into concise, platform-optimized summaries using AI technology. Users can input any article URL and receive summaries tailored for different social media platforms, streamlining content consumption and sharing.
+SummAiry is a web application that transforms lengthy articles into concise, platform-optimized summaries using AI technology. For this project, I specifically narrowed the audience for real estate investors in Japan who are trying to tap into the growing real estate market in rural parts of the country. Users input an article URL related to Japanese Real estate and receive summaries tailored for different social media platforms, streamlining content consumption and sharing.
+
 
 **Frontend Development:**
 
@@ -48,4 +49,4 @@ Features include:
 
 **Project Impact:**
 
-SummAiry addresses the growing need for efficient content consumption and sharing in the digital age. It helps users save time by quickly understanding article content and enables them to share insights across different social media platforms in appropriate formats. The project demonstrates the practical application of AI in content processing while maintaining a focus on user experience and accessibility.
+SummAiry addresses the growing need for efficient content consumption and sharing especially in the exclusive real estate market in Japan. It helps users save time by quickly understanding article content and enables them to share insights across different social media platforms in appropriate formats, encouraging this constant flow of information. The project demonstrates the practical application of AI in content processing while maintaining a focus on user experience/accessibility all while combating the exclusivity of Japanese real estate.
