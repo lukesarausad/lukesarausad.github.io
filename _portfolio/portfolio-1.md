@@ -1,10 +1,10 @@
 ---
 title: "SummAiry"
-excerpt: "I created a fullstack web application called SummAiry that leverages Google's Gemini to expedite Japanese real estate research process. <br/><img src='/images/SummAiry.png'>" 
+excerpt: "A fullstack web application called that leverages Google's Gemini to encourage literacy of Japanese real estate market data. <br/><img src='/images/SummAiry.png'>" 
 collection: portfolio
 ---
 
-SummAiry is a web application that transforms lengthy articles into concise, platform-optimized summaries using AI technology. For this project, I specifically narrowed the audience for real estate investors in Japan who are trying to tap into the growing real estate market in rural parts of the country. Users input an article URL related to Japanese Real estate and receive summaries tailored for different social media platforms, streamlining content consumption and sharing.
+SummAiry is a web application that transforms lengthy articles into concise, platform-optimized summaries using AI technology. For this project specifically, I narrowed the audience to real estate investors in Japan who are trying to tap into the growing real estate market in rural parts of the country. Therefore, users input an article URL related to Japanese Real estate and receive summaries tailored for different social media platforms, streamlining content consumption and sharing.
 
 
 **Frontend Development:**
@@ -49,4 +49,4 @@ Features include:
 
 **Project Impact:**
 
-SummAiry addresses the growing need for efficient content consumption and sharing especially in the exclusive real estate market in Japan. It helps users save time by quickly understanding article content and enables them to share insights across different social media platforms in appropriate formats, encouraging this constant flow of information. The project demonstrates the practical application of AI in content processing while maintaining a focus on user experience/accessibility all while combating the exclusivity of Japanese real estate.
+SummAiry addresses the growing need for efficient content consumption and sharing especially in the exclusive real estate market in Japan. It helps users save time by quickly understanding article content and enables them to share insights across different social media platforms in appropriate formats, encouraging this constant flow of information. The project demonstrates the practical application of AI in content processing while maintaining a focus on user experience/accessibility all while combatting the exclusivity of Japanese real estate data.
