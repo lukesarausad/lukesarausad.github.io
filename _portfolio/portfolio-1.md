@@ -1,6 +1,6 @@
 ---
 title: "SummAiry"
-excerpt: "A fullstack web application called that leverages Google's Gemini to encourage literacy of Japanese real estate market data. <br/><img src='/images/SummAiry.png'>" 
+excerpt: "A fullstack web application that leverages Google's Gemini to encourage literacy of Japanese real estate market data. <br/><img src='/images/SummAiry.png'>" 
 collection: portfolio
 ---
 
